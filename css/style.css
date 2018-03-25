@@ -21,7 +21,9 @@ h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.45;
   font-weight: normal;
-  color: #000; }
+  color: #000; 
+  padding-bottom: 19px;
+}
 
 .text-primary {
   color: #4586FF !important; }
@@ -38,7 +40,7 @@ h1, h2, h3, h4, h5,
       top: 0;
       position: relative; } }
   .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
-    font-size: 23px;
+    font-size: 18px;
     padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 20px;
